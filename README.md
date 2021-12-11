@@ -37,4 +37,4 @@ Skilfor
 
 ## V. 後端資料庫設計
 
-![data](./database.png)
+![data](https://i.imgur.com/n8lYbAy.png)
