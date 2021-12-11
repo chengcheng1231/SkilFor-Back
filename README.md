@@ -38,3 +38,17 @@ Skilfor
 ## V. 後端資料庫設計
 
 ![data](https://i.imgur.com/n8lYbAy.png)
+
+## VI. 頁面設計
+
+### 主頁：
+
+![data](https://i.imgur.com/vs9woxd.png)
+
+### 註冊&登入頁面：
+
+![data](https://i.imgur.com/YVMbx5w.png)
+
+### 後臺與老師個人頁面：
+
+![data](https://i.imgur.com/OIig77F.png)
